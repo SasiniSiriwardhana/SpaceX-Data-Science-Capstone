@@ -14,5 +14,5 @@ After tuning the models, I found that Logistic Regression was the most reliable 
 
 Below is the Confusion Matrix and Classification Report for the Logistic Regression model, which was our best-performing algorithm:
 
-![SpaceX Prediction Results](<img width="1167" height="645" alt="Screenshot 2026-03-30 094152" src="https://github.com/user-attachments/assets/ca34feef-197b-40d4-9122-0381fb9ca597" />
+![SpaceX Prediction Results](<img width="1167" height="645" alt="Confusion Matrix and Classification Repor" src="https://github.com/user-attachments/assets/3227496a-5f23-4397-946e-2a24b0e6281a" />
 )
