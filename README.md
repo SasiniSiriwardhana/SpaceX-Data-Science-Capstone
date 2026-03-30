@@ -11,3 +11,8 @@ To make this happen, I followed a complete data science workflow using various p
 Results & Conclusion:
 I found some really interesting patterns, like how the success rate improved over the years and how the payload's weight and the specific orbit affect the landing.
 After tuning the models, I found that Logistic Regression was the most reliable for this dataset. My final model achieved an impressive training accuracy of 96.6% and a test accuracy of 94%, showing it is very effective at predicting these high-stakes landings.
+
+Below is the Confusion Matrix and Classification Report for the Logistic Regression model, which was our best-performing algorithm:
+
+![SpaceX Prediction Results](<img width="1167" height="645" alt="Screenshot 2026-03-30 094152" src="https://github.com/user-attachments/assets/ca34feef-197b-40d4-9122-0381fb9ca597" />
+)
